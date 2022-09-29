@@ -1,0 +1,14 @@
+{
+    "name": "hola-mundo",
+    "version": "1.0.0",
+    "description": "JS Course with Open BootCamp",
+    "main": "index.js",
+    "scripts": {
+        "test": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo"
+    },
+    "keywords": [
+        "First Project"
+    ],
+    "author": "Erwin",
+    "license": "ISC"
+}
